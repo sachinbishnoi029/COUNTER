@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.vh_100 {
+    height: 100vh;
+}
+
+.card {
+    height: 350px;
+    width: 350px;
+    background-color: white;
+    box-shadow: 0 0 50px 13px black;
+    border-radius: 25px;
+
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-item-c {
+    align-items: center;
+}
+
+.justify-content-c {
+    justify-content: center;
+}
+
+.btn {
+    width: 118px;
+    height: 46px;
+    padding: 11px 28px 11px 28px;
+    border-radius: 23px;
+    background-color: rgba(44, 73, 254, 1);
+    border: none;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    border-style: none;
+}
+
+.flex-direction {
+    flex-direction: column;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.gap-40 {
+    gap: 40px;
+}
+
+.font-30 {
+    font-size: 30px;
+}
